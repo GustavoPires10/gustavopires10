@@ -1,4 +1,4 @@
-### Olá Mundo, Eu so o Gustavo Pires Domingues 👋
+### Olá Mundo, Eu sou o Gustavo Pires Domingues 👋
 
 - 🌱 Estudando C++ 
 
